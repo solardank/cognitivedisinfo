@@ -1,0 +1,2 @@
+# cognitivedisinfo
+Resources for disinformation
